@@ -1,125 +1,255 @@
-凤凰资讯,http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
-凤凰中文,http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
-北京卫视4k,http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
-cctv4k,http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
-CCTV1,http://111.20.33.93/PLTV/88888888/224/3221225804/index.m3u8
-CCTV2,http://111.20.33.93/PLTV/88888893/224/3221226195/index.m3u8
-CCTV3,http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
-CCTV3,http://111.20.33.93/PLTV/88888893/224/3221227067/index.m3u8
-CCTV4,http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
-CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
-CCTV5,http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
-CCTV5,http://111.20.33.93/PLTV/88888893/224/3221227070/index.m3u8
-CCTV5+,http://111.20.33.93/PLTV/88888893/224/3221227110/index.m3u8
-CCTV6,http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8
-CCTV7,http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
-CCTV8,http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
-CCTV9,http://111.20.33.93/PLTV/88888893/224/3221226197/index.m3u8
-CCTV10,http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
-CCTV11,http://111.20.33.93/PLTV/88888893/224/3221226240/index.m3u8
-CCTV12,http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
-CCTV13,http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
-CCTV14,http://111.20.33.93/PLTV/88888893/224/3221226193/index.m3u8
-CCTV16,http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
-CCTV17,http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
-CCTV世界地理,http://111.20.33.93/PLTV/88888893/224/3221226947/index.m3u8
-CCTV风云剧场,http://111.20.33.93/PLTV/88888893/224/3221226950/index.m3u8
-CCTV风云音乐,http://111.20.33.93/PLTV/88888893/224/3221226953/index.m3u8
-CCTV台球,http://111.20.33.93/PLTV/88888893/224/3221226956/index.m3u8
-CCTV第一剧场,http://111.20.33.93/PLTV/88888893/224/3221226959/index.m3u8
-CCTV女性时尚,http://111.20.33.93/PLTV/88888893/224/3221226969/index.m3u8
-CCTV怀旧剧场,http://111.20.33.93/PLTV/88888893/224/3221226972/index.m3u8
-CCTV兵器科技,http://111.20.33.93/PLTV/88888893/224/3221226975/index.m3u8
-CCTV高尔夫网球,http://111.20.33.93/PLTV/88888893/224/3221226978/index.m3u8
-CCTV文化精品,http://111.20.33.93/PLTV/88888893/224/3221226981/index.m3u8
-CCTV风云足球,http://111.20.33.93/PLTV/88888893/224/3221226984/index.m3u8
-CCTV电视指南,http://111.20.33.93/PLTV/88888893/224/3221226987/index.m3u8
-CCTV卫生健康,http://111.20.33.93/PLTV/88888893/224/3221227146/index.m3u8
-cgtn 法语,http://111.20.33.93/PLTV/88888893/224/3221227058/index.m3u8
-cgtn 俄语,http://111.20.33.93/PLTV/88888893/224/3221227078/index.m3u8
-cgtn 纪录,http://111.20.33.93/PLTV/88888893/224/3221227084/index.m3u8
-cgtn 阿语,http://111.20.33.93/PLTV/88888893/224/3221227095/index.m3u8
-cgtn 西语,http://111.20.33.93/PLTV/88888893/224/3221227098/index.m3u8
-chc家庭,http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
-chc动作,http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
-chc影迷,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
-cetv4,http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
-cetv早期教育,http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
+#EXTM3U catchup="append" catchup-days="7" catchup-source="?playseek=${start}-${end}"
 
-东方卫视,http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
-湖南卫视,http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
-北京卫视,http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
-浙江卫视,http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
-深圳卫视,http://111.20.33.93/PLTV/88888888/224/3221225801/index.m3u8
-黑龙江卫视,http://111.20.33.93/PLTV/88888888/224/3221225802/index.m3u8
-广东卫视,http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
-江苏卫视,http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
-天津卫视,http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
-重庆卫视,http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
-辽宁卫视,http://111.20.33.93/PLTV/88888893/224/3221226201/index.m3u8
-湖北卫视,http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
-安徽卫视,http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
-山东卫视,http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
-农林卫视,http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
-陕西卫视,http://111.20.33.93/PLTV/88888893/224/3221227096/index.m3u8
-西藏卫视,http://111.20.33.93/PLTV/88888893/224/3221227147/index.m3u8
-兵团卫视,http://111.20.33.93/PLTV/88888893/224/3221227155/index.m3u8
-新疆卫视,http://111.20.33.93/PLTV/88888893/224/3221227136/index.m3u8
+# 央视频道
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://111.20.33.93/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://111.20.33.93/PLTV/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://111.20.33.93/PLTV/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://111.20.33.93/PLTV/88888893/224/3221227067/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://111.20.33.93/PLTV/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://111.20.33.93/PLTV/88888893/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://111.20.33.93/PLTV/88888893/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://111.20.33.93/PLTV/88888893/224/3221227070/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视频道",CCTV5+
+http://111.20.33.93/PLTV/88888893/224/3221227110/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://111.20.33.93/PLTV/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://111.20.33.93/PLTV/88888893/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://111.20.33.93/PLTV/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://111.20.33.93/PLTV/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://111.20.33.93/PLTV/88888893/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://111.20.33.93/PLTV/88888893/224/3221226240/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://111.20.33.93/PLTV/88888893/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://111.20.33.93/PLTV/88888893/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://111.20.33.93/PLTV/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16
+http://111.20.33.93/PLTV/88888893/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://111.20.33.93/PLTV/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-id="cctv4k" tvg-name="cctv4k" group-title="央视频道",cctv4k
+http://111.20.33.93/PLTV/88888893/224/3221227140/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视4k" tvg-name="北京卫视4k" group-title="央视频道",北京卫视4k
+http://111.20.33.93/PLTV/88888893/224/3221227112/index.m3u8
 
-金鹰纪实,http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
-茶频道,http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
-快乐垂钓,http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
+# CGTN & 付费/专业频道
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="付费频道",CCTV世界地理
+http://111.20.33.93/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" group-title="付费频道",CCTV风云剧场
+http://111.20.33.93/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐" group-title="付费频道",CCTV风云音乐
+http://111.20.33.93/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="CCTV台球" tvg-name="CCTV台球" group-title="付费频道",CCTV台球
+http://111.20.33.93/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="付费频道",CCTV第一剧场
+http://111.20.33.93/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" group-title="付费频道",CCTV女性时尚
+http://111.20.33.93/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" group-title="付费频道",CCTV怀旧剧场
+http://111.20.33.93/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="付费频道",CCTV兵器科技
+http://111.20.33.93/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="付费频道",CCTV高尔夫网球
+http://111.20.33.93/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" group-title="付费频道",CCTV文化精品
+http://111.20.33.93/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="付费频道",CCTV风云足球
+http://111.20.33.93/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" group-title="付费频道",CCTV电视指南
+http://111.20.33.93/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" group-title="付费频道",CCTV卫生健康
+http://111.20.33.93/PLTV/88888893/224/3221227146/index.m3u8
+#EXTINF:-1 tvg-id="cgtn 法语" tvg-name="cgtn 法语" group-title="CGTN频道",cgtn 法语
+http://111.20.33.93/PLTV/88888893/224/3221227058/index.m3u8
+#EXTINF:-1 tvg-id="cgtn 俄语" tvg-name="cgtn 俄语" group-title="CGTN频道",cgtn 俄语
+http://111.20.33.93/PLTV/88888893/224/3221227078/index.m3u8
+#EXTINF:-1 tvg-id="cgtn 纪录" tvg-name="cgtn 纪录" group-title="CGTN频道",cgtn 纪录
+http://111.20.33.93/PLTV/88888893/224/3221227084/index.m3u8
+#EXTINF:-1 tvg-id="cgtn 阿语" tvg-name="cgtn 阿语" group-title="CGTN频道",cgtn 阿语
+http://111.20.33.93/PLTV/88888893/224/3221227095/index.m3u8
+#EXTINF:-1 tvg-id="cgtn 西语" tvg-name="cgtn 西语" group-title="CGTN频道",cgtn 西语
+http://111.20.33.93/PLTV/88888893/224/3221227098/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="chc家庭" group-title="电影教育",chc家庭
+http://111.20.33.93/PLTV/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="chc动作" group-title="电影教育",chc动作
+http://111.20.33.93/PLTV/88888893/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="chc影迷" group-title="电影教育",chc影迷
+http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-name="cetv4" group-title="电影教育",cetv4
+http://111.20.33.93/PLTV/88888893/224/3221226225/index.m3u8
+#EXTINF:-1 tvg-id="CETV早期教育" tvg-name="cetv早期教育" group-title="电影教育",cetv早期教育
+http://111.20.33.93/PLTV/88888893/224/3221227143/index.m3u8
 
-陕西新闻资讯,http://111.20.33.93/PLTV/88888893/224/3221227099/index.m3u8
-陕西秦腔,http://111.20.33.93/PLTV/88888893/224/3221227125/index.m3u8
-陕西体育休闲,http://111.20.33.93/PLTV/88888893/224/3221227111/index.m3u8
-陕西都市青春,http://111.20.33.93/PLTV/88888893/224/3221227102/index.m3u8
-陕西新闻资讯,http://111.20.33.93/PLTV/88888893/224/3221226357/index.m3u8
-陕西都市青春,http://111.20.33.93/PLTV/88888893/224/3221226358/index.m3u8
-陕西银龄,http://111.20.33.93/PLTV/88888893/224/3221226359/index.m3u8
-陕西秦腔,http://111.20.33.93/PLTV/88888893/224/3221226361/index.m3u8
-陕西体育休闲,http://111.20.33.93/PLTV/88888893/224/3221226363/index.m3u8
-西部电影,http://111.20.33.93/PLTV/88888893/224/3221226364/index.m3u8
-西部电影,http://111.20.33.93/PLTV/88888893/224/3221227091/index.m3u8
-西安综合,http://111.20.33.93/PLTV/88888893/224/3221226366/index.m3u8
-西安教育台,http://111.20.33.93/PLTV/88888893/224/3221226371/index.m3u8
-咸阳,http://111.20.33.93/PLTV/88888893/224/3221226372/index.m3u8
-渭南新闻综合,http://111.20.33.93/PLTV/88888893/224/3221226376/index.m3u8
-榆林,http://111.20.33.93/PLTV/88888893/224/3221226377/index.m3u8
-商洛综合,http://111.20.33.93/PLTV/88888893/224/3221226378/index.m3u8
-宝鸡综合,http://111.20.33.93/PLTV/88888893/224/3221226383/index.m3u8
-宝鸡公共,http://111.20.33.93/PLTV/88888893/224/3221226384/index.m3u8
-安康,http://111.20.33.93/PLTV/88888893/224/3221226385/index.m3u8
-宁强,http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
-佛坪,http://111.20.33.93/PLTV/88888893/224/3221226454/index.m3u8
-镇巴,http://111.20.33.93/PLTV/88888893/224/3221226457/index.m3u8
-西乡,http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
-城固,http://111.20.33.93/PLTV/88888893/224/3221226920/index.m3u8
-洋县,http://111.20.33.93/PLTV/88888893/224/3221226938/index.m3u8
-千阳,http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
-吴起,http://111.20.33.93/PLTV/88888893/224/3221226967/index.m3u8
-泾阳,http://111.20.33.93/PLTV/88888893/224/3221226979/index.m3u8
-蒲城,http://111.20.33.93/PLTV/88888893/224/3221226976/index.m3u8
-志丹,http://111.20.33.93/PLTV/88888893/224/3221226989/index.m3u8
-fgtv,http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
-黄陵,http://111.20.33.93/PLTV/88888893/224/3221226992/index.m3u8
-神木,http://111.20.33.93/PLTV/88888893/224/3221226993/index.m3u8
-宁陕,http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
-紫阳,http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
-渭南公共,http://111.20.33.93/PLTV/88888893/224/3221227001/index.m3u8
-商洛公共,http://111.20.33.93/PLTV/88888893/224/3221227006/index.m3u8
-扶风,http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
-榆阳,http://111.20.33.93/PLTV/88888893/224/3221227017/index.m3u8
-黄龙,http://111.20.33.93/PLTV/88888893/224/3221227029/index.m3u8
-镇平综合,http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
-合阳,http://111.20.33.93/PLTV/88888893/224/3221227053/index.m3u8
-hstv,http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
-岚皋,http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
-子长,http://111.20.33.93/PLTV/88888893/224/3221227061/index.m3u8
-临潼,http://111.20.33.93/PLTV/88888893/224/3221227062/index.m3u8
-延川,http://111.20.33.93/PLTV/88888893/224/3221227064/index.m3u8
-眉县,http://111.20.33.93/PLTV/88888893/224/3221227069/index.m3u8
-lytv,http://111.20.33.93/PLTV/88888893/224/3221227072/index.m3u8
-旬邑,http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
-太白,http://111.20.33.93/PLTV/88888893/224/3221227083/index.m3u8
-子洲,http://111.20.33.93/PLTV/88888893/224/3221227104/index.m3u8
+# 卫视频道
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://111.20.33.93/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://111.20.33.93/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://111.20.33.93/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://111.20.33.93/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://111.20.33.93/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://111.20.33.93/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://111.20.33.93/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://111.20.33.93/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://111.20.33.93/PLTV/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://111.20.33.93/PLTV/88888893/224/3221226202/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://111.20.33.93/PLTV/88888893/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://111.20.33.93/PLTV/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+http://111.20.33.93/PLTV/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://111.20.33.93/PLTV/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" group-title="卫视频道",农林卫视
+http://111.20.33.93/PLTV/88888893/224/3221226229/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+http://111.20.33.93/PLTV/88888893/224/3221227096/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="卫视频道",西藏卫视
+http://111.20.33.93/PLTV/88888893/224/3221227147/index.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="卫视频道",兵团卫视
+http://111.20.33.93/PLTV/88888893/224/3221227155/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="卫视频道",新疆卫视
+http://111.20.33.93/PLTV/88888893/224/3221227136/index.m3u8
+
+# 轮播/数字频道
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="数字频道",凤凰资讯
+http://111.20.33.93/PLTV/88888893/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="凤凰中文" group-title="数字频道",凤凰中文
+http://111.20.33.93/PLTV/88888893/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="数字频道",金鹰纪实
+http://111.20.33.93/PLTV/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" group-title="数字频道",茶频道
+http://111.20.33.93/PLTV/88888893/224/3221226808/index.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" group-title="数字频道",快乐垂钓
+http://111.20.33.93/PLTV/88888893/224/3221226805/index.m3u8
+
+# 陕西地方频道
+#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西新闻资讯" group-title="地方频道",陕西新闻资讯
+http://111.20.33.93/PLTV/88888893/224/3221227099/index.m3u8
+#EXTINF:-1 tvg-id="陕西秦腔" tvg-name="陕西秦腔" group-title="地方频道",陕西秦腔
+http://111.20.33.93/PLTV/88888893/224/3221227125/index.m3u8
+#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" group-title="地方频道",陕西体育休闲
+http://111.20.33.93/PLTV/88888893/224/3221227111/index.m3u8
+#EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" group-title="地方频道",陕西都市青春
+http://111.20.33.93/PLTV/88888893/224/3221227102/index.m3u8
+#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-name="陕西新闻资讯" group-title="地方频道",陕西新闻资讯
+http://111.20.33.93/PLTV/88888893/224/3221226357/index.m3u8
+#EXTINF:-1 tvg-id="陕西都市青春" tvg-name="陕西都市青春" group-title="地方频道",陕西都市青春
+http://111.20.33.93/PLTV/88888893/224/3221226358/index.m3u8
+#EXTINF:-1 tvg-id="陕西银龄" tvg-name="陕西银龄" group-title="地方频道",陕西银龄
+http://111.20.33.93/PLTV/88888893/224/3221226359/index.m3u8
+#EXTINF:-1 tvg-id="陕西秦腔" tvg-name="陕西秦腔" group-title="地方频道",陕西秦腔
+http://111.20.33.93/PLTV/88888893/224/3221226361/index.m3u8
+#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" group-title="地方频道",陕西体育休闲
+http://111.20.33.93/PLTV/88888893/224/3221226363/index.m3u8
+#EXTINF:-1 tvg-id="西部电影" tvg-name="西部电影" group-title="地方频道",西部电影
+http://111.20.33.93/PLTV/88888893/224/3221226364/index.m3u8
+#EXTINF:-1 tvg-id="西部电影" tvg-name="西部电影" group-title="地方频道",西部电影
+http://111.20.33.93/PLTV/88888893/224/3221227091/index.m3u8
+#EXTINF:-1 tvg-id="西安综合" tvg-name="西安综合" group-title="地方频道",西安综合
+http://111.20.33.93/PLTV/88888893/224/3221226366/index.m3u8
+#EXTINF:-1 tvg-id="西安教育台" tvg-name="西安教育台" group-title="地方频道",西安教育台
+http://111.20.33.93/PLTV/88888893/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-id="咸阳" tvg-name="咸阳" group-title="地方频道",咸阳
+http://111.20.33.93/PLTV/88888893/224/3221226372/index.m3u8
+#EXTINF:-1 tvg-id="渭南新闻综合" tvg-name="渭南新闻综合" group-title="地方频道",渭南新闻综合
+http://111.20.33.93/PLTV/88888893/224/3221226376/index.m3u8
+#EXTINF:-1 tvg-id="榆林" tvg-name="榆林" group-title="地方频道",榆林
+http://111.20.33.93/PLTV/88888893/224/3221226377/index.m3u8
+#EXTINF:-1 tvg-id="商洛综合" tvg-name="商洛综合" group-title="地方频道",商洛综合
+http://111.20.33.93/PLTV/88888893/224/3221226378/index.m3u8
+#EXTINF:-1 tvg-id="宝鸡综合" tvg-name="宝鸡综合" group-title="地方频道",宝鸡综合
+http://111.20.33.93/PLTV/88888893/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="宝鸡公共" tvg-name="宝鸡公共" group-title="地方频道",宝鸡公共
+http://111.20.33.93/PLTV/88888893/224/3221226384/index.m3u8
+#EXTINF:-1 tvg-id="安康" tvg-name="安康" group-title="地方频道",安康
+http://111.20.33.93/PLTV/88888893/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="宁强" tvg-name="宁强" group-title="地方频道",宁强
+http://111.20.33.93/PLTV/88888893/224/3221226390/index.m3u8
+#EXTINF:-1 tvg-id="佛坪" tvg-name="佛坪" group-title="地方频道",佛坪
+http://111.20.33.93/PLTV/88888893/224/3221226454/index.m3u8
+#EXTINF:-1 tvg-id="镇巴" tvg-name="镇巴" group-title="地方频道",镇巴
+http://111.20.33.93/PLTV/88888893/224/3221226457/index.m3u8
+#EXTINF:-1 tvg-id="西乡" tvg-name="西乡" group-title="地方频道",西乡
+http://111.20.33.93/PLTV/88888893/224/3221226556/index.m3u8
+#EXTINF:-1 tvg-id="城固" tvg-name="城固" group-title="地方频道",城固
+http://111.20.33.93/PLTV/88888893/224/3221226920/index.m3u8
+#EXTINF:-1 tvg-id="洋县" tvg-name="洋县" group-title="地方频道",洋县
+http://111.20.33.93/PLTV/88888893/224/3221226938/index.m3u8
+#EXTINF:-1 tvg-id="千阳" tvg-name="千阳" group-title="地方频道",千阳
+http://111.20.33.93/PLTV/88888893/224/3221226945/index.m3u8
+#EXTINF:-1 tvg-id="吴起" tvg-name="吴起" group-title="地方频道",吴起
+http://111.20.33.93/PLTV/88888893/224/3221226967/index.m3u8
+#EXTINF:-1 tvg-id="泾阳" tvg-name="泾阳" group-title="地方频道",泾阳
+http://111.20.33.93/PLTV/88888893/224/3221226979/index.m3u8
+#EXTINF:-1 tvg-id="蒲城" tvg-name="蒲城" group-title="地方频道",蒲城
+http://111.20.33.93/PLTV/88888893/224/3221226976/index.m3u8
+#EXTINF:-1 tvg-id="志丹" tvg-name="志丹" group-title="地方频道",志丹
+http://111.20.33.93/PLTV/88888893/224/3221226989/index.m3u8
+#EXTINF:-1 tvg-id="fgtv" tvg-name="fgtv" group-title="地方频道",fgtv
+http://111.20.33.93/PLTV/88888893/224/3221226990/index.m3u8
+#EXTINF:-1 tvg-id="黄陵" tvg-name="黄陵" group-title="地方频道",黄陵
+http://111.20.33.93/PLTV/88888893/224/3221226992/index.m3u8
+#EXTINF:-1 tvg-id="神木" tvg-name="神木" group-title="地方频道",神木
+http://111.20.33.93/PLTV/88888893/224/3221226993/index.m3u8
+#EXTINF:-1 tvg-id="宁陕" tvg-name="宁陕" group-title="地方频道",宁陕
+http://111.20.33.93/PLTV/88888893/224/3221226998/index.m3u8
+#EXTINF:-1 tvg-id="紫阳" tvg-name="紫阳" group-title="地方频道",紫阳
+http://111.20.33.93/PLTV/88888893/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-id="渭南公共" tvg-name="渭南公共" group-title="地方频道",渭南公共
+http://111.20.33.93/PLTV/88888893/224/3221227001/index.m3u8
+#EXTINF:-1 tvg-id="商洛公共" tvg-name="商洛公共" group-title="地方频道",商洛公共
+http://111.20.33.93/PLTV/88888893/224/3221227006/index.m3u8
+#EXTINF:-1 tvg-id="扶风" tvg-name="扶风" group-title="地方频道",扶风
+http://111.20.33.93/PLTV/88888893/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-id="榆阳" tvg-name="榆阳" group-title="地方频道",榆阳
+http://111.20.33.93/PLTV/88888893/224/3221227017/index.m3u8
+#EXTINF:-1 tvg-id="黄龙" tvg-name="黄龙" group-title="地方频道",黄龙
+http://111.20.33.93/PLTV/88888893/224/3221227029/index.m3u8
+#EXTINF:-1 tvg-id="镇平综合" tvg-name="镇平综合" group-title="地方频道",镇平综合
+http://111.20.33.93/PLTV/88888893/224/3221227032/index.m3u8
+#EXTINF:-1 tvg-id="合阳" tvg-name="合阳" group-title="地方频道",合阳
+http://111.20.33.93/PLTV/88888893/224/3221227053/index.m3u8
+#EXTINF:-1 tvg-id="hstv" tvg-name="hstv" group-title="地方频道",hstv
+http://111.20.33.93/PLTV/88888893/224/3221227054/index.m3u8
+#EXTINF:-1 tvg-id="岚皋" tvg-name="岚皋" group-title="地方频道",岚皋
+http://111.20.33.93/PLTV/88888893/224/3221227057/index.m3u8
+#EXTINF:-1 tvg-id="子长" tvg-name="子长" group-title="地方频道",子长
+http://111.20.33.93/PLTV/88888893/224/3221227061/index.m3u8
+#EXTINF:-1 tvg-id="临潼" tvg-name="临潼" group-title="地方频道",临潼
+http://111.20.33.93/PLTV/88888893/224/3221227062/index.m3u8
+#EXTINF:-1 tvg-id="延川" tvg-name="延川" group-title="地方频道",延川
+http://111.20.33.93/PLTV/88888893/224/3221227064/index.m3u8
+#EXTINF:-1 tvg-id="眉县" tvg-name="眉县" group-title="地方频道",眉县
+http://111.20.33.93/PLTV/88888893/224/3221227069/index.m3u8
+#EXTINF:-1 tvg-id="lytv" tvg-name="lytv" group-title="地方频道",lytv
+http://111.20.33.93/PLTV/88888893/224/3221227072/index.m3u8
+#EXTINF:-1 tvg-id="旬邑" tvg-name="旬邑" group-title="地方频道",旬邑
+http://111.20.33.93/PLTV/88888893/224/3221227077/index.m3u8
+#EXTINF:-1 tvg-id="太白" tvg-name="太白" group-title="地方频道",太白
+http://111.20.33.93/PLTV/88888893/224/3221227083/index.m3u8
+#EXTINF:-1 tvg-id="子洲" tvg-name="子洲" group-title="地方频道",子洲
+http://111.20.33.93/PLTV/88888893/224/3221227104/index.m3u8
